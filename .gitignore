@@ -1,0 +1,4 @@
+__pycache__/
+*.db
+.streamlit/secrets.toml
+data/synthetic/T38_*.csv
